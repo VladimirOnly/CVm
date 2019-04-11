@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Once the button 'allTags' is clicked the text of the input element is added as a new tag into the URL hash (#tags=red,blue,purple,mytag)
 const button = document.getElementById('myButton');
-button.onclick = function() {
+button.onclick = function () {
     const links = document.querySelector('a');
     const myTag = document.getElementById('textInput').value;
     links.href += ',' + myTag;

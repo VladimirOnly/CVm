@@ -5,7 +5,13 @@
 
 .links a {
     padding: 10px;
+
 }
+
+:link:hover {
+    outline: dotted red;
+}
+
 
 #all {
     color: #7a6b79;
