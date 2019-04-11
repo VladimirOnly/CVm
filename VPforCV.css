@@ -1,0 +1,26 @@
+.links {
+    background-image: url("https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1477935249000/photosp/391bf5f2-c4a9-4fef-bbb6-0f864346ad00/stock-photo-yellow-autumn-red-green-foliage-leaves-fall-colors-gradients-391bf5f2-c4a9-4fef-bbb6-0f864346ad00.jpg");
+    padding: 50px;
+}
+.links a {
+    padding: 10px;
+}
+#all {
+    color: #7a6b79;
+    background-image: linear-gradient(red, blue, purple);
+}
+
+#red {
+    color: red;
+    background-image: linear-gradient(darkred, red);
+}
+#blue {
+    color: blue;
+    background-image: linear-gradient(darkblue, deepskyblue);
+
+}
+#purple {
+    color: purple;
+    background-image: linear-gradient(darkviolet, mediumpurple);
+
+}
